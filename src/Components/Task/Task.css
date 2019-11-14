@@ -1,0 +1,8 @@
+.task_tab {
+    border: 1px solid black;
+    padding: 10px;
+    min-width: 200px;
+}
+.task_btn{
+    float: right;
+}
